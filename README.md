@@ -10,7 +10,7 @@ Changes made will be listed below.
 
 ## Changelog
 <ul>
-<li>separated div tags to sections, articles, and nav tags.<li>
+<li>separated div tags to sections, articles, and nav tags.</li>
 
 <li>added alt text to major images on page.</li>
 

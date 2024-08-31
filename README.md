@@ -9,7 +9,10 @@ Simply inspect the page in any devtool to view the code.
 Changes made will be listed below.
 
 ## Changelog
+<ul>
+<li>separated div tags to sections, articles, and nav tags.<li>
 
-separated div tags to sections, articles, and nav tags.
-added alt text to major images on page.
-updated style sheet to match updated tags.
+<li>added alt text to major images on page.</li>
+
+<li>updated style sheet to match updated tags.</li>
+</ul>
